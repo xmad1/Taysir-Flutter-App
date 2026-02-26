@@ -1,0 +1,70 @@
+// Export pages
+export '/pages/user_pages/home_page/home_page_widget.dart' show HomePageWidget;
+export '/welcomepage/welcomepage_widget.dart' show WelcomepageWidget;
+export '/pages/user_pages/user_feedback_page/user_feedback_page_widget.dart'
+    show UserFeedbackPageWidget;
+export '/pages/user_pages/report/report_widget.dart' show ReportWidget;
+export '/pages/vendor_pages/vendor_add_store_page/vendor_add_store_page_widget.dart'
+    show VendorAddStorePageWidget;
+export '/pages/vendor_pages/vendor_add_ad_page/vendor_add_ad_page_widget.dart'
+    show VendorAddAdPageWidget;
+export '/pages/vendor_dashboard_page/vendor_dashboard_page_widget.dart'
+    show VendorDashboardPageWidget;
+export '/pages/vendor_pages/vendor_edit_ad_page/vendor_edit_ad_page_widget.dart'
+    show VendorEditAdPageWidget;
+export '/pages/vendor_pages/vendor_update_store_page/vendor_update_store_page_widget.dart'
+    show VendorUpdateStorePageWidget;
+export '/sign/sign_widget.dart' show SignWidget;
+export '/role_selector_page/role_selector_page_widget.dart'
+    show RoleSelectorPageWidget;
+export '/pages/user_pages/user_my_account_page/user_my_account_page_widget.dart'
+    show UserMyAccountPageWidget;
+export '/pages/user_pages/user_change_password_page/user_change_password_page_widget.dart'
+    show UserChangePasswordPageWidget;
+export '/pages/user_pages/store_detail_page/store_detail_page_widget.dart'
+    show StoreDetailPageWidget;
+export '/pages/user_pages/user_edit_profile_page/user_edit_profile_page_widget.dart'
+    show UserEditProfilePageWidget;
+export '/pages/vendor_pages/vendor_feedback_page/vendor_feedback_page_widget.dart'
+    show VendorFeedbackPageWidget;
+export '/pages/vendor_pages/vendor_change_password_page/vendor_change_password_page_widget.dart'
+    show VendorChangePasswordPageWidget;
+export '/pages/user_pages/user_view_ads_details/user_view_ads_details_widget.dart'
+    show UserViewAdsDetailsWidget;
+export '/auth2/auth2_widget.dart' show Auth2Widget;
+export '/pages/admin_pages/admin_dashbord/admin_dashbord_widget.dart'
+    show AdminDashbordWidget;
+export '/welcomepage_copy/welcomepage_copy_widget.dart'
+    show WelcomepageCopyWidget;
+export '/pages/admin_pages/user_detailes/user_detailes_widget.dart'
+    show UserDetailesWidget;
+export '/pages/admin_pages/ads_detaile/ads_detaile_widget.dart'
+    show AdsDetaileWidget;
+export '/pages/admin_pages/list_reports/list_reports_widget.dart'
+    show ListReportsWidget;
+export '/pages/admin_pages/user_management_page/user_management_page_widget.dart'
+    show UserManagementPageWidget;
+export '/pages/admin_pages/developer_info_page/developer_info_page_widget.dart'
+    show DeveloperInfoPageWidget;
+export '/pages/admin_pages/admin_my_accountpage/admin_my_accountpage_widget.dart'
+    show AdminMyAccountpageWidget;
+export '/pages/admin_pages/admin_change_password_page/admin_change_password_page_widget.dart'
+    show AdminChangePasswordPageWidget;
+export '/pages/admin_pages/admin_update_store_page/admin_update_store_page_widget.dart'
+    show AdminUpdateStorePageWidget;
+export '/pages/admin_pages/store_detail_page_copy/store_detail_page_copy_widget.dart'
+    show StoreDetailPageCopyWidget;
+export '/pages/vendor_pages/vendor_edit_profile_page/vendor_edit_profile_page_widget.dart'
+    show VendorEditProfilePageWidget;
+export '/pages/vendor_pages/vendor_my_account_page/vendor_my_account_page_widget.dart'
+    show VendorMyAccountPageWidget;
+export '/pages/admin_pages/admin_edit_profile_page/admin_edit_profile_page_widget.dart'
+    show AdminEditProfilePageWidget;
+export '/pages/vendor_pages/vendor_privacy_policy_page/vendor_privacy_policy_page_widget.dart'
+    show VendorPrivacyPolicyPageWidget;
+export '/pages/user_pages/user_help_supportpage/user_help_supportpage_widget.dart'
+    show UserHelpSupportpageWidget;
+export '/pages/user_pages/user_about_page/user_about_page_widget.dart'
+    show UserAboutPageWidget;
+export '/pages/user_pages/user_privacy_policypage/user_privacy_policypage_widget.dart'
+    show UserPrivacyPolicypageWidget;
